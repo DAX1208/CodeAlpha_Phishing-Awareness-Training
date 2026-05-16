@@ -3,7 +3,6 @@
 An educational resource that teaches how to recognize phishing, social engineering tactics, and safer habits — with an interactive quiz that pulls **random questions** from a larger bank and **shuffles answer order** each session.
 
 ![Theme](https://img.shields.io/badge/theme-cyber%20SOC-00e5ff?style=flat-square)
-![Quiz](https://img.shields.io/badge/quiz-16%20questions-39ff14?style=flat-square)
 
 ## Contents
 
